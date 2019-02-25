@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-home-as-back",
+  "version": "1.0.0",
+  "description": "Cordova Android home-as-back Plugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardforcada/cordova-plugin-home-as-back.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "back",
+    "button",
+    "cordova-android"
+  ],
+  "author": "Gerard Forcada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerardforcada/cordova-plugin-home-as-back/issues"
+  },
+  "homepage": "https://github.com/gerardforcada/cordova-plugin-home-as-back#readme",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
